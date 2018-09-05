@@ -6,7 +6,13 @@ copy-simple.js is a painless copy helper for JavaScript.
 
 There are different functions to copy values. All methods will return true or false;
 
-## import the library
+## Install with NPM
+
+```shell
+npm i copy-simple
+```
+
+## Import copy-simple
 
 ```javascript
 import copy from 'copy-simple';
