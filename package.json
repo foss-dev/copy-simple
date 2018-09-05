@@ -1,0 +1,32 @@
+{
+  "name": "copy-simple",
+  "version": "1.0.2",
+  "description": "Painless copy helper for JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aligoren/copy-simple.git"
+  },
+  "keywords": [
+    "copy",
+    "copy",
+    "event",
+    "copy",
+    "selected",
+    "copy",
+    "text",
+    "copy",
+    "value",
+    "copy",
+    "html"
+  ],
+  "author": "Ali GOREN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aligoren/copy-simple/issues"
+  },
+  "homepage": "https://github.com/aligoren/copy-simple#readme"
+}
